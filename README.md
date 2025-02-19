@@ -1,5 +1,10 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [2월 - 과정 4주차] : JS 응용
+
+25.02.19 객체, 네임스페이스, 프로그래밍 패러다임, 함수형 패러다임, 모듈 시스템, 블로킹 논블로킹/동기 비동기, 콜백 함수, 프로미스<br>
+([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-02-19.md))
+
 ### [2월 - 과정 3주차] : Web의 구조 및 이해
 
 25.02.18 웹소켓 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-02-18.md))
