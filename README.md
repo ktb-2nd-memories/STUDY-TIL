@@ -2,6 +2,8 @@
 
 ### [2월 - 과정 4주차] : JS 응용
 
+25.02.21 4주차 내용 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-02-21.md))
+
 25.02.20 비동기(프로미스, Async/Await), 자바스크립트 엔진, 자바스크립트 런타임 환경, 스코프<br>
 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-02-20.md))
 
