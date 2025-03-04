@@ -1,6 +1,14 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [2월 - 과정 5주차] : 해커톤
+
+25.02.26 - 25.02.28 해커톤
+
+25.02.25 아이디어톤
+
 ### [2월 - 과정 4주차] : JS 응용
+
+25.02.24 실행 컨텍스트, this, 클로저, 프로토타입 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-02-24.md))
 
 25.02.21 4주차 내용 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-02-21.md))
 
