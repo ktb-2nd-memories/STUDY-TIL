@@ -1,5 +1,9 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [3월 - 과정 6주차] : DB 기초
+
+25.03.04 데이터베이스, 정규화, SQL 기초, SQL 응용 ([상세 내역 링크](https://github.com/100-hours-a-week/wren-til/blob/main/Feb/2025-03-04.md))
+
 ### [2월 - 과정 5주차] : 해커톤
 
 25.02.26 - 25.02.28 해커톤
